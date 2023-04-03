@@ -31,6 +31,4 @@ The 227 Voyage website includes the following features:
 [If you would like to contribute to the 227 Voyage website, please feel free to fork the repository and make any changes you like using HTML, CSS, and Bootstrap.]
 
 ## License
-
-[./LICENSE.md]
-This project is [MIT](https://github.com/Yacoubou-seidou/227voyage/blob/master/LICENSE.md) licensed.
+This project is [MIT](https://github.com/Yacoubou-seidou/227voyages/LICENSE.md) licensed.

@@ -32,4 +32,4 @@ The 227 Voyage website includes the following features:
 
 ## License
 
-[./MIT]
+[./LICENSE.md]

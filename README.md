@@ -33,3 +33,4 @@ The 227 Voyage website includes the following features:
 ## License
 
 [./LICENSE.md]
+This project is [MIT](https://github.com/Yacoubou-seidou/227voyage/LICENSE.md) licensed.
